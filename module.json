@@ -4,28 +4,28 @@
     "modules": [
       {
         "name": "Algèbre Linéaire",
-        "file": "/assets/algebre.zip",
-        "description": "Learn about vector spaces, matrices, and linear transformations."
+        "file": "https://zaikoss.github.io/api_gdnc_website/algebre.zip",
+        "description": "Étudiez les espaces vectoriels, les matrices et les transformations linéaires."
       },
       {
         "name": "Réseaux",
-        "file": "/assets/reseau.zip",
-        "description": "Understand the fundamentals of computer networks and protocols."
+        "file": "https://zaikoss.github.io/api_gdnc_website/reseau.zip",
+        "description": "Découvrez les concepts fondamentaux des réseaux informatiques et des protocoles."
       },
       {
         "name": "Bases de Données",
-        "file": "/assets/bds.zip",
-        "description": "Master database design, SQL, and data management."
+        "file": "https://zaikoss.github.io/api_gdnc_website/bds.zip",
+        "description": "Apprenez la conception des bases de données, le SQL et la gestion des données."
       },
       {
         "name": "SE Linux",
-        "file": "/assets/SE_linux.zip",
-        "description": "Learn about SELinux for system security and access control."
+        "file": "https://zaikoss.github.io/api_gdnc_website/SE_linux.zip",
+        "description": "Comprenez SELinux pour la sécurité système et le contrôle d'accès."
       },
       {
-        "name": "POO",
-        "file": "/assets/POO.zip",
-        "description": "Dive into object-oriented programming principles with C++."
+        "name": "Programmation Orientée Objet (POO)",
+        "file": "https://zaikoss.github.io/api_gdnc_website/POO.zip",
+        "description": "Plongez dans les principes de la programmation orientée objet avec C++."
       }
     ]
   },
@@ -33,14 +33,14 @@
     "semester": "Semester 2",
     "modules": [
       {
-        "name": "Programmation Orientée Objet",
-        "file": "/assets/poo.zip",
-        "description": "Dive into object-oriented programming principles with C++."
+        "name": "Programmation Orientée Objet Avancée",
+        "file": "https://zaikoss.github.io/api_gdnc_website/poo.zip",
+        "description": "Explorez des concepts avancés de POO avec des projets pratiques."
       },
       {
         "name": "Sécurité Informatique",
-        "file": "/assets/security.zip",
-        "description": "Understand basic cybersecurity concepts and practices."
+        "file": "https://zaikoss.github.io/api_gdnc_website/security.zip",
+        "description": "Apprenez les bases des concepts et pratiques de cybersécurité."
       }
     ]
   }
