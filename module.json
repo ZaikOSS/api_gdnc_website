@@ -4,6 +4,7 @@
     "modules": [
       {
         "name": "Algèbre Linéaire",
+<<<<<<< HEAD
         "file": "https://zaikoss.github.io/api_gdnc_website/algebre.zip",
         "description": "Étudiez les espaces vectoriels, les matrices et les transformations linéaires."
       },
@@ -26,6 +27,30 @@
         "name": "Programmation Orientée Objet (POO)",
         "file": "https://zaikoss.github.io/api_gdnc_website/POO.zip",
         "description": "Plongez dans les principes de la programmation orientée objet avec C++."
+=======
+        "file": "https://drive.google.com/file/d/1b0ZdeGgQaYqLH1n135MopKrTyy5VYLEP/view?usp=drive_link",
+        "description": "Learn about vector spaces, matrices, and linear transformations."
+      },
+      {
+        "name": "Réseaux",
+        "file": "https://drive.google.com/file/d/19wOQqqL191LP3ekKA9ki7ZFC4uH2mPD9/view?usp=drive_link",
+        "description": "Understand the fundamentals of computer networks and protocols."
+      },
+      {
+        "name": "Bases de Données",
+        "file": "https://drive.google.com/file/d/1l0UY7SXWp1X0bTQrGNbuDRT0_1t4EZUB/view?usp=drive_link",
+        "description": "Master database design, SQL, and data management."
+      },
+      {
+        "name": "SE Linux",
+        "file": "https://drive.google.com/file/d/162U7JtwbviTpx1INJOonQLyEugSuSVmM/view?usp=drive_link",
+        "description": "Learn about SELinux for system security and access control."
+      },
+      {
+        "name": "POO",
+        "file": "https://drive.google.com/file/d/1v0ovzHZQcDKoRftL9xisxYhJEOwDs__U/view?usp=drive_link",
+        "description": "Dive into object-oriented programming principles with C++."
+>>>>>>> 59dfef5 (new json)
       }
     ]
   },
@@ -33,6 +58,7 @@
     "semester": "Semester 2",
     "modules": [
       {
+<<<<<<< HEAD
         "name": "Programmation Orientée Objet Avancée",
         "file": "https://zaikoss.github.io/api_gdnc_website/poo.zip",
         "description": "Explorez des concepts avancés de POO avec des projets pratiques."
@@ -41,6 +67,11 @@
         "name": "Sécurité Informatique",
         "file": "https://zaikoss.github.io/api_gdnc_website/security.zip",
         "description": "Apprenez les bases des concepts et pratiques de cybersécurité."
+=======
+        "name": "coming soon",
+        "file": "#",
+        "description": "coming soon."
+>>>>>>> 59dfef5 (new json)
       }
     ]
   }
